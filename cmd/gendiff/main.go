@@ -1,7 +1,7 @@
 package main
 
 import (
-	"code/internal/parsers"
+	"github.com/pavloveone/gendiff-go/internal/parsers"
 	"context"
 	"fmt"
 	"os"

@@ -1,4 +1,4 @@
-module code
+module github.com/pavloveone/gendiff-go
 
 go 1.22
 
