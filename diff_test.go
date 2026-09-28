@@ -1,7 +1,7 @@
 package code
 
 import (
-	"code/internal/models"
+	"github.com/pavloveone/gendiff-go/internal/models"
 	"testing"
 
 	"github.com/stretchr/testify/require"

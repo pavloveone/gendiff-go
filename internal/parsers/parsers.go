@@ -1,8 +1,9 @@
 package parsers
 
 import (
-	"code"
 	"fmt"
+
+	code "github.com/pavloveone/gendiff-go"
 )
 
 // ParseByPaths reads JSON or YAML files from the given paths and generates a formatted
