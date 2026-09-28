@@ -2,7 +2,7 @@
 
 [![Actions Status](https://github.com/pavloveone/gendiff-go/actions/workflows/ci.yml/badge.svg)](https://github.com/pavloveone/gendiff-go/actions)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=pavloveone_gendiff-go&metric=coverage)](https://sonarcloud.io/summary/new_code?id=pavloveone_gendiff-go)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=pavloveone_gendiff-go&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=pavloveone_gendiff-go)
+[![Quality gate status](https://sonarcloud.io/api/project_badges/measure?project=pavloveone_gendiff-go&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=pavloveone_gendiff-go)
 
 **Demo:** [asciinema recording](https://asciinema.org/a/QIlzt5NyC1YojONz)
 
